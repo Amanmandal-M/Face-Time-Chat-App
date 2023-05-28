@@ -13,7 +13,7 @@
   
 ## Deployed Link
 
-  <a href="face-time-video.netlify.app/" >Face Time</a>
+  <a href="https://face-time-video.netlify.app/" >Face Time</a>
   
 <hr>
 
